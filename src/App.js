@@ -13,7 +13,7 @@ function App() {
   // const serverUrl = "http://localhost:4000";
   // const clientUrl = "http://localhost:3000";
   const serverUrl = "https://daily-collection-backend.vercel.app";
-  const clientUrl = "https://dazzling-kangaroo-b0d366.netlify.app";
+  const clientUrl = "https://daily-savings.netlify.app";
   const [isMobile, setIsMobile] = useState(
     window.innerWidth < 720 ? true : false
   );
